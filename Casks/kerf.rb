@@ -1,6 +1,6 @@
 cask "kerf" do
-  version "0.2.0"
-  sha256 "dedcbe61aca0b736c1e4a45e6a12c84fa37f79a0d6057b36dec18f5b27c2ae8f"
+  version "0.3.0"
+  sha256 "c7969c70a64decee4b37989147ecbaab059f9b799f350228c6a3cd670baa810f"
 
   url "https://github.com/paultje1900/kerf/releases/download/v#{version}/Kerf-#{version}.zip"
   name "Kerf"
